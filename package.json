@@ -10,7 +10,7 @@
   "version": "0.5.0",
   "license": "MIT",
   "dependencies": {
-    "async.eachoflimit": "0.5.0",
+    "async.eachoflimit": "0.5.1",
     "async.util.createtester": "0.5.0",
     "async.util.notid": "0.5.0"
   },
